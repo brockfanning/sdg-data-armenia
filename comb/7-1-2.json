@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2015,2015],"Unit":["%","%","%"],"Location":[null,"Urban","Rural"],"Value":[96.9,99.7,92.0]},"edges":{"From":["Unit"],"To":["Location"]}}
+{"data":{"Year":[2015,2015,2015],"Units":["%","%","%"],"Location":[null,"Urban","Rural"],"Value":[96.9,99.7,92.0]},"edges":[]}
