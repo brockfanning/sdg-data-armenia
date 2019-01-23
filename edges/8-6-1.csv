@@ -1,3 +1,4 @@
 From,To
-Category,Sex
-Category,Location
+Age,Category
+Age,Sex
+Age,Location
