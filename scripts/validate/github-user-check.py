@@ -16,7 +16,7 @@ import fnmatch
 PROTECTED_FOLDERS = ['data/', 'meta/']
 
 # Hardcoded repo information.
-GITHUB_ORG = 'armstat'
+GITHUB_ORG = 'brockfanning'
 GITHUB_REPO = 'sdg-data-armenia'
 
 print('Checking user permissions...')
